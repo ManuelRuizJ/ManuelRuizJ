@@ -21,10 +21,10 @@ I enjoy building practical software projects, designing APIs, working with datab
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### Languages & Markup
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,java,html,css" height="48" alt="Python, JavaScript, Java, HTML and CSS" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,matlab,html,css" height="48" alt="Python, JavaScript, Java, MATLAB, HTML and CSS" />
 </p>
 
 ### Backend & APIs
@@ -48,7 +48,7 @@ I enjoy building practical software projects, designing APIs, working with datab
 ### AI, Data & Integrations
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="48" width="48" alt="Pandas" />
   <img src="https://img.shields.io/badge/CrewAI-222222?style=for-the-badge" height="48" alt="CrewAI" />
   <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge" height="48" alt="Ollama" />
   <img src="https://img.shields.io/badge/OWL%20%2F%20Prot%C3%A9g%C3%A9-5B4B8A?style=for-the-badge" height="48" alt="OWL and Protégé" />
