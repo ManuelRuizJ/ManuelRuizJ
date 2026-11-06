@@ -5,19 +5,19 @@
 <p align="center">
   Computer Systems Engineering student at Universidad Iberoamericana Puebla, Mexico.
   <br />
-  Interested in backend development, software engineering, Linux infrastructure and artificial intelligence.
+  Interested in full-stack development, software engineering and artificial intelligence, with experience building both frontend and backend projects.
 </p>
 
 <p align="center">
   <a href="https://github.com/ManuelRuizJ">
     <img src="https://img.shields.io/badge/GitHub-ManuelRuizJ-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Infrastructure-2563eb?style=for-the-badge" alt="Focus: Backend and Infrastructure" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI-2563eb?style=for-the-badge" alt="Focus: Full-Stack and AI" />
 </p>
 
 ## 👨‍💻 About Me
 
-I enjoy building practical software projects, designing APIs, working with databases and exploring how distributed applications are deployed and maintained. Most of my experience comes from academic, team and personal projects.
+I enjoy building complete web applications, from user interfaces to backend services and databases. I also explore AI-powered applications and agent-based workflows. Most of my experience comes from academic, team and personal projects.
 
 ## 🛠️ Tech Stack
 
@@ -50,6 +50,7 @@ I enjoy building practical software projects, designing APIs, working with datab
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="48" width="48" alt="Pandas" />
   <img src="https://img.shields.io/badge/CrewAI-222222?style=for-the-badge" height="48" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" height="48" alt="Claude" />
   <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge" height="48" alt="Ollama" />
   <img src="https://img.shields.io/badge/OWL%20%2F%20Prot%C3%A9g%C3%A9-5B4B8A?style=for-the-badge" height="48" alt="OWL and Protégé" />
   <img src="https://skillicons.dev/icons?i=firebase,supabase" height="48" alt="Firebase and Supabase" />
@@ -58,18 +59,24 @@ I enjoy building practical software projects, designing APIs, working with datab
 ### Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,bash,git,github,githubactions,vscode,arduino" height="48" alt="Docker, Linux, Bash, Git, GitHub, GitHub Actions, Visual Studio Code and Arduino" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,windows,git,github,githubactions,vscode" height="48" alt="Docker, Linux, Windows, Git, GitHub, GitHub Actions and Visual Studio Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" height="48" width="48" alt="Fedora" />
+</p>
+
+### Productivity Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office" />
 </p>
 
 ## 🧩 Areas I've Worked With
 
-- Backend development and REST API design
+- Full-stack web application development
 - Relational and NoSQL databases
 - Distributed applications and asynchronous processing
 - Docker-based development environments
 - Linux environments and command-line tools
-- Multi-agent systems and semantic ontologies
+- AI-assisted development, multi-agent systems and semantic ontologies
 
 ## 🚀 Selected Projects
 
@@ -109,7 +116,7 @@ I enjoy building practical software projects, designing APIs, working with datab
 
 ## 📚 Currently Exploring
 
-Backend architecture, distributed systems, Linux infrastructure and multi-agent AI systems.
+Full-stack architecture, AI-assisted development, Claude and agent-based workflows.
 
 ---
 
