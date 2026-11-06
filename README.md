@@ -27,24 +27,39 @@ I enjoy building practical software projects, designing APIs, working with datab
   <img src="https://skillicons.dev/icons?i=python,js,java,html,css" height="48" alt="Python, JavaScript, Java, HTML and CSS" />
 </p>
 
-### Backend & Frontend
+### Backend & APIs
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,react" height="48" alt="FastAPI, Django, Node.js and React" />
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs" height="48" alt="FastAPI, Django, Flask and Node.js" />
+</p>
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="48" alt="React, Next.js and Tailwind CSS" />
 </p>
 
 ### Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis" height="48" alt="PostgreSQL, SQLite, MongoDB and Redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis,mysql" height="48" alt="PostgreSQL, SQLite, MongoDB, Redis and MySQL" />
+</p>
+
+### AI, Data & Integrations
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" />
+  <img src="https://img.shields.io/badge/CrewAI-222222?style=for-the-badge" height="48" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge" height="48" alt="Ollama" />
+  <img src="https://img.shields.io/badge/OWL%20%2F%20Prot%C3%A9g%C3%A9-5B4B8A?style=for-the-badge" height="48" alt="OWL and Protégé" />
+  <img src="https://skillicons.dev/icons?i=firebase,supabase" height="48" alt="Firebase and Supabase" />
 </p>
 
 ### Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,bash,git,github,vscode" height="48" alt="Docker, Linux, Bash, Git, GitHub and Visual Studio Code" />
-  <br />
-  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,bash,git,github,githubactions,vscode,arduino" height="48" alt="Docker, Linux, Bash, Git, GitHub, GitHub Actions, Visual Studio Code and Arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" height="48" width="48" alt="Fedora" />
 </p>
 
 ## 🧩 Areas I've Worked With
