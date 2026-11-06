@@ -21,53 +21,81 @@ I enjoy building complete web applications, from user interfaces to backend serv
 
 ## 🛠️ Tech Stack
 
+> All technology logos below use the same Devicon icon set and a consistent 48 × 48 px size.
+
 ### Languages & Markup
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,java,matlab,html,css" height="48" alt="Python, JavaScript, Java, MATLAB, HTML and CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
 </p>
 
 ### Backend & APIs
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs" height="48" alt="FastAPI, Django, Flask and Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="48" height="48" alt="SQLAlchemy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="48" height="48" alt="Swagger" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="48" height="48" alt="Postman" />
 </p>
 
 ### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="48" alt="React, Next.js and Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="48" height="48" alt="Vercel" />
 </p>
 
 ### Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis,mysql" height="48" alt="PostgreSQL, SQLite, MongoDB, Redis and MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="48" height="48" alt="Supabase" />
 </p>
 
 ### AI, Data & Integrations
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="48" width="48" alt="Pandas" />
-  <img src="https://img.shields.io/badge/CrewAI-222222?style=for-the-badge" height="48" alt="CrewAI" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" height="48" alt="Claude" />
-  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge" height="48" alt="Ollama" />
-  <img src="https://img.shields.io/badge/OWL%20%2F%20Prot%C3%A9g%C3%A9-5B4B8A?style=for-the-badge" height="48" alt="OWL and Protégé" />
-  <img src="https://skillicons.dev/icons?i=firebase,supabase" height="48" alt="Firebase and Supabase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claude/claude-original.svg" width="48" height="48" alt="Claude" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ollama/ollama-original.svg" width="48" height="48" alt="Ollama" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="48" height="48" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="48" height="48" alt="Notion" />
+</p>
+
+<p>
+  <strong>Also explored:</strong> CrewAI, OWL ontologies and Protégé.
 </p>
 
 ### Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,windows,git,github,githubactions,vscode" height="48" alt="Docker, Linux, Windows, Git, GitHub, GitHub Actions and Visual Studio Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" height="48" width="48" alt="Fedora" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" width="48" height="48" alt="Fedora" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="48" height="48" alt="Windows" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="GitHub Actions" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" alt="Visual Studio Code" />
 </p>
 
-### Productivity Tools
+### Productivity
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office" />
-</p>
+Microsoft Office — Word, Excel and PowerPoint.
 
 ## 🧩 Areas I've Worked With
 
