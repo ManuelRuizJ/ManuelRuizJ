@@ -42,7 +42,9 @@ I enjoy building practical software projects, designing APIs, working with datab
 ### Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,fedora,git,github,vscode" height="48" alt="Docker, Linux, Fedora, Git, GitHub and Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,bash,git,github,vscode" height="48" alt="Docker, Linux, Bash, Git, GitHub and Visual Studio Code" />
+  <br />
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
 </p>
 
 ## 🧩 Areas I've Worked With
@@ -67,14 +69,14 @@ I enjoy building practical software projects, designing APIs, working with datab
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ManuelRuizJ&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ManuelRuizJ&show_icons=true&include_all_commits=true&hide_border=true&theme=default" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ManuelRuizJ&show_icons=true&include_all_commits=true&hide_border=true&theme=default" alt="GitHub statistics" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=ManuelRuizJ&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=ManuelRuizJ&show_icons=true&include_all_commits=true&hide_border=true&theme=default" />
+    <img height="170" src="https://github-stats-extended.vercel.app/api?username=ManuelRuizJ&show_icons=true&include_all_commits=true&hide_border=true&theme=default" alt="GitHub statistics" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelRuizJ&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelRuizJ&layout=compact&langs_count=8&hide_border=true&theme=default" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelRuizJ&layout=compact&langs_count=8&hide_border=true&theme=default" alt="Most used programming languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=ManuelRuizJ&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=ManuelRuizJ&layout=compact&langs_count=8&hide_border=true&theme=default" />
+    <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ManuelRuizJ&layout=compact&langs_count=8&hide_border=true&theme=default" alt="Most used programming languages" />
   </picture>
 </p>
 
