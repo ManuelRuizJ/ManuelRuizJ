@@ -94,7 +94,7 @@ I enjoy building complete web applications, from user interfaces to backend serv
 
 ### Productivity
 
-Microsoft Office — Word, Excel and PowerPoint.
+Microsoft Office 
 
 ## 🧩 Areas I've Worked With
 
