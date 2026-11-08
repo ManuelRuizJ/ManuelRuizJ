@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI-2563eb?style=for-the-badge" alt="Focus: Full-Stack and AI" />
 </p>
 
-## 👨‍💻 About Me
+## About Me
 
 I enjoy building complete web applications, from user interfaces to backend services and databases. I also explore AI-powered applications and agent-based workflows. Most of my experience comes from academic, team and personal projects.
 
