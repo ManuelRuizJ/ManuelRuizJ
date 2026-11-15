@@ -5,7 +5,7 @@
 <p align="center">
   Computer Systems Engineering student at Universidad Iberoamericana Puebla, Mexico.
   <br />
-  Interested in full-stack development, software engineering and artificial intelligence, with experience building both frontend and backend projects.
+  Interested in full-stack development, software engineering and artificial intelligence, with experience building frontend and backend applications.
 </p>
 
 <p align="center">
@@ -17,11 +17,9 @@
 
 ## About Me
 
-I enjoy building complete web applications, from user interfaces to backend services and databases. I also explore AI-powered applications and agent-based workflows. Most of my experience comes from academic, team and personal projects.
+I enjoy building complete web applications, from user interfaces to backend services and databases. I also explore AI-powered applications and agent-based workflows through academic, team and personal projects.
 
 ## 🛠️ Tech Stack
-
-> All technology logos below use the same Devicon icon set and a consistent 48 × 48 px size.
 
 ### Languages & Markup
 
@@ -75,9 +73,7 @@ I enjoy building complete web applications, from user interfaces to backend serv
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="48" height="48" alt="Notion" />
 </p>
 
-<p>
-  <strong>Also explored:</strong> CrewAI, OWL ontologies and Protégé.
-</p>
+**Also explored:** CrewAI, OWL ontologies and Protégé.
 
 ### Tools & Platforms
 
@@ -94,7 +90,7 @@ I enjoy building complete web applications, from user interfaces to backend serv
 
 ### Productivity
 
-Microsoft Office 
+Microsoft Office
 
 ## 🧩 Areas I've Worked With
 
@@ -109,10 +105,10 @@ Microsoft Office
 
 | Project | Description | Main technologies |
 |---|---|---|
-| [HookRelay](https://github.com/ManuelRuizJ/hook-relay) | Webhook delivery service with a worker, retries, idempotency and event persistence. In development. | FastAPI, PostgreSQL, Redis, Docker |
-| [Distributed Orders](https://github.com/ManuelRuizJ/ordenes-distribuidas) | Academic distributed order-ingestion system using an API gateway, writer service and order status tracking. | FastAPI, PostgreSQL, Redis, Docker |
-| [Academic Course Recommendation System](https://github.com/ManuelRuizJ/multiagente-carga-academica) | Academic multi-agent prototype for course recommendations using an OWL ontology and a Contract Net approach. | Python, CrewAI, OWL |
-| [Cocina Depa](https://github.com/ManuelRuizJ/cocina-depa) | Personal automation project for inventory, meal planning and notifications. | Python, Notion, GitHub Actions |
+| [HookRelay](https://github.com/ManuelRuizJ/hook-relay) | Servicio de entrega de webhooks con procesamiento en segundo plano, reintentos automáticos, idempotencia y persistencia de eventos. | FastAPI, PostgreSQL, Redis, Docker |
+| [Órdenes distribuidas](https://github.com/ManuelRuizJ/ordenes-distribuidas) | Sistema académico distribuido para recibir y gestionar órdenes mediante una API Gateway, un servicio de escritura y seguimiento de estados. | FastAPI, PostgreSQL, Redis, Docker |
+| [Sistema multiagente de recomendación de materias](https://github.com/ManuelRuizJ/multiagente-carga-academica) | Prototipo académico multiagente que recomienda materias mediante una ontología OWL y el protocolo Contract Net. | Python, CrewAI, OWL |
+| [Cocina Depa](https://github.com/ManuelRuizJ/cocina-depa) | Proyecto personal para automatizar el inventario, la planificación de comidas y las notificaciones. | Python, Notion, GitHub Actions |
 
 ## 📊 GitHub Stats
 
@@ -135,10 +131,6 @@ Microsoft Office
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ManuelRuizJ&hide_border=true&theme=default" />
     <img src="https://streak-stats.demolab.com?user=ManuelRuizJ&hide_border=true&theme=default" alt="GitHub contribution streak" />
   </picture>
-</p>
-
-<p align="center">
-  <sub>Language statistics are based on code size in public repositories. They do not represent skill level or experience.</sub>
 </p>
 
 ## 📚 Currently Exploring
